@@ -1,1 +1,1 @@
-This is my first Api projecct, on it I'll be using an amount of tech skills abve those are: JavaScript, Node.js. In Node.js I'll use some packages, more expecifickly: Express, Inquirer and Chalk
+This is my first Api projecct, on it I'll be using an amount of tech skills abve those are: JavaScript, Node.js. In Node.js I'll use some packages, more expecifickly: Inquirer and Chalk
